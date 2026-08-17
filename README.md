@@ -13,8 +13,6 @@ Sequential colormaps have equal steps of lightness (L*).
 Diverging colormaps have a neutral center color.
 One Python module registers all colormaps in matplotlib.
 
-![Eight selected colormaps](images/highlights.png)
-
 
 ![Glossary of all colormaps](images/glossary.png)
 
